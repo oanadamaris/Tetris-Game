@@ -6,7 +6,7 @@ A simple yet engaging Tetris game where players rotate and position falling bloc
 
 ## 📖 Table of Contents  
 - [📌 Description](#-description)  
-  - [🔥 Motivation](#-motivation)  
+  - [💛 Motivation](#-motivation)  
   - [🎯 Why this project?](#-why-this-project)  
   - [✅ What problem does it solve?](#-what-problem-does-it-solve)  
   - [💡 What I learned](#-what-i-learned)  
