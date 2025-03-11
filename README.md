@@ -12,8 +12,8 @@ A simple yet engaging Tetris game where players rotate and position falling bloc
   - [💡 What I learned](#-what-i-learned)  
 - [🚀 Usage](#-usage)  
   - [🎮 How to Play](#-how-to-play)  
-  - [🎛️ Controls](#-controls)  
-  - [🖼️ The Tetris Game](#-the-tetris-game) 
+  - [🎛️ Controls](%EF%B8%8F-controls)  
+  - [🖼️ The Tetris Game](#%EF%B8%8F-the-tetris-game) 
 - [✨ Features](#-features)  
 - [🛠️ Built With](#-built-with) 
 
